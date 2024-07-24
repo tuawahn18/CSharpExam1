@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpExam1", "CSharpExam1\CSharpExam1.csproj", "{9377C8AE-1D9E-4C0C-AE8C-80D4907B9336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpExam2", "CSharpExam2\CSharpExam2.csproj", "{BD2A8697-DF31-4D05-A1BD-D6BCCA9FF6D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9377C8AE-1D9E-4C0C-AE8C-80D4907B9336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9377C8AE-1D9E-4C0C-AE8C-80D4907B9336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9377C8AE-1D9E-4C0C-AE8C-80D4907B9336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9377C8AE-1D9E-4C0C-AE8C-80D4907B9336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2A8697-DF31-4D05-A1BD-D6BCCA9FF6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2A8697-DF31-4D05-A1BD-D6BCCA9FF6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2A8697-DF31-4D05-A1BD-D6BCCA9FF6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2A8697-DF31-4D05-A1BD-D6BCCA9FF6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\bin\Debug\net8.0\CSharpExam1.exe
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\bin\Debug\net8.0\CSharpExam1.deps.json
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\bin\Debug\net8.0\CSharpExam1.runtimeconfig.json
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\bin\Debug\net8.0\CSharpExam1.dll
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\bin\Debug\net8.0\CSharpExam1.pdb
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\CSharpExam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\CSharpExam1.AssemblyInfoInputs.cache
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\CSharpExam1.AssemblyInfo.cs
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\CSharpExam1.csproj.CoreCompileInputs.cache
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\CSharpExam1.dll
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\refint\CSharpExam1.dll
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\CSharpExam1.pdb
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\CSharpExam1.genruntimeconfig.cache
+C:\Users\Laptop K1\RiderProjects\CSharpExam1\CSharpExam1\obj\Debug\net8.0\ref\CSharpExam1.dll
